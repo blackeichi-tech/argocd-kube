@@ -13,6 +13,6 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: 
+      - image: blackeichi/docker-repo:b922386
         name: argocd-kube-container
 
